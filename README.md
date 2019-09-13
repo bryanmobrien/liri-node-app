@@ -7,10 +7,11 @@ Liri
 
 Give start-to-finish instructions on how to run the app
 Open your terminal or vscode's terminal.
-``` node liri.js concert-this <your favorite band goes here>
-    node liri.js spotify-this <your song goes here>
-    node liri.js movie-this <your movie goes here>
- ```
+``` 
+node liri.js concert-this <your favorite band goes here>
+node liri.js spotify-this <your song goes here>
+node liri.js movie-this <your movie goes here>
+```
 
 Include screenshots, gifs or videos of the app functioning
 Screenshot: https://monosnap.com/file/H8dP5wG5p4IGGIRar84CHBjgXdDiH5
