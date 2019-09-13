@@ -64,7 +64,9 @@ function runLiri() {
                     //Parse the json response
                     var data = JSON.parse(body);
                     //Loop through array
-                    for (var i = 0; i < data.length; i++) {
+
+                    for (var i = 0; i < 5; i++) {
+                    //for (var i = 0; i < data.length; i++) {
                         //Get venue name
                         console.log("Venue: " + data[i].venue.name);
                         //Append data to log.txt
@@ -170,7 +172,7 @@ function runLiri() {
         case "movie-this":
             //If statement for no movie provided
             if (!userInput) {
-                userInput = "Mr%20Nobody";
+                userInput = "Trailer%20Park%20Boys";
                 nextUserInput = userInput.replace(/%20/g, " ");
             }
 
