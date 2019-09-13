@@ -3,7 +3,9 @@ Liri helps the user to identify when bands are in town, gives the specfics of so
 
 
 Give a high-level overview of how the app is organized
-Liri 
+Liri uses node.js and web apis to assist end-users in gathering information about upcoming concerts for their favorite bands as well as information for specified movies and songs.
+there is a keys.js file that exports spofity environment variabls to the main file - liri.js - so they can be used as variables during the spotify-this function calls.
+There is a an .env file that holds the actual values for the specific SPOTIFY_ID and SPOTIFY_SECRETA
 
 Give start-to-finish instructions on how to run the app
 Open your terminal or vscode's terminal.
