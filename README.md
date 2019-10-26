@@ -1,12 +1,12 @@
 
-Liri helps the user to identify when bands are in town, gives the specfics of song and movies they are interested in.
+## Liri helps the user to identify when bands are in town, gives the specfics of song and movies they are interested in.
 
 
-Liri uses node.js and web apis to assist end-users in gathering information about upcoming concerts for their favorite bands as well as information for specified movies and songs.
+# Liri uses node.js and web apis to assist end-users in gathering information about upcoming concerts for their favorite bands as well as information for specified movies and songs.
 
-## There is a keys.js file that exports spofity environment variabls to the main file - liri.js - so they can be used as variables during the spotify-this function calls.
+# There is a keys.js file that exports spofity environment variables to the main file - liri.js - so they can be used as variables during the spotify-this function calls.
 
-## There is a an .env file that holds the actual values for the specific SPOTIFY_ID and SPOTIFY_SECRET.  This musts be created by the end user.
+# There is a an .env file that holds the actual values for the specific SPOTIFY_ID and SPOTIFY_SECRET.  This musts be created by the end user.
 
 ### Clone the repo
 ### Open your terminal or vscode's terminal.
