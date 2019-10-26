@@ -20,12 +20,11 @@ Include screenshots, gifs or videos of the app functioning
 Screenshot: https://monosnap.com/file/H8dP5wG5p4IGGIRar84CHBjgXdDiH5
 Video: https://monosnap.com/file/LpbSW1cqynZCViWPQfLovFivXCpOZj
 
-Contain a link to a deployed version of the app
-N/A
+Deployed version of the liri app
+https://bryanmobrien.github.io/liri-node-app/
 
-Clearly list the technologies used in the app
+These are the technologies used in the app
 node.js, 
 npm package: moment, bandsintown, request, node-spotify-api, dotenv
 
-State your role in the app development
-As a student, I laid the framework/skeleton for this app.  However, I give a ton of credit to user devans1913 on github.  He was instrumental in getting the app to run successfully - although I still need to tweak it.
+I created this app as a student of a Fullstack Development bootcamp.
