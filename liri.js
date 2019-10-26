@@ -31,7 +31,7 @@ for (var i = 3; i < nodeArgs.length; i++) {
     else {
         userInput += nodeArgs[i];
     }
-    console.log(userInput);
+    // console.log(userInput);
 }
 
 //Remove %20 when pushing to log.txt
